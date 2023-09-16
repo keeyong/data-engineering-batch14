@@ -3,6 +3,7 @@
 - 우분투 20.04에서 Airflow 2.5.1을 설치하는 방법에 대한 문서로 파이썬 3.8을 사용
 - 앞서 별도로 공유된 ssh 로그인 문서를 참조하여 할당된 EC2 서버로 로그인 (이 때 ubuntu 계정을 사용함).
 - VS Code에서 바로 접근하는 방법도 있으며 이 역시 별도 문서를 제공할 예정
+- 비디오로 설치 과정을 데모하는 영상은 [여기](https://drive.google.com/file/d/1Q0XcZU7U0f4xRRYuwDKRkBfpv1zjkNN5/view?usp=share_link)를 참고
 
 ## Airflow Python Module Installation
 
